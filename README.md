@@ -22,7 +22,7 @@ For Debian and Ubuntu based distros
 
 ## Server
 
-`python3 server/app.py`
+`python3 app/app.py`
 
 Runs flask server in debug mode
 
